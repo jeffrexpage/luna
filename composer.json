@@ -1,5 +1,5 @@
 {
-    "name": "jeffsoft/luna-db",
+    "name": "jeffsoft/luna",
     "description": "Mongodb database abstract layer",
     "type": "package",
     "authors": [
