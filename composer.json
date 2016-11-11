@@ -1,0 +1,18 @@
+{
+    "name": "jeffsoft/luna-db",
+    "description": "Mongodb database abstract layer",
+    "type": "package",
+    "authors": [
+        {
+            "name": "jeferson",
+            "email": "jefersonparanaense@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {"luna\\": ""}
+    }
+}
